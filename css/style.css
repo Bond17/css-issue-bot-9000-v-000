@@ -6,6 +6,7 @@ h1 {
   fontsize: 3em; 
 }
 
+
 h2 {
   color: green;
   font-weight: normal
@@ -16,7 +17,7 @@ h2 {
   font-family: 12px;
 }
 
-#tasks .completed 
+#tasks .completed {
   backgound: #ccc;
   text-decoration: underline;
 }
